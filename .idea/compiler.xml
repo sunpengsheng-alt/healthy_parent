@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="healthy_appoionment" />
+        <module name="healthy_assessment" />
+        <module name="healthy_common" />
+        <module name="healthy_domain" />
+        <module name="healthy_eureka" />
+        <module name="healthy_intervene" />
+        <module name="healthy_member" />
+        <module name="healthy_users" />
+        <module name="healthy_zuul" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="healthy_appoionment" options="-parameters" />
+      <module name="healthy_assessment" options="-parameters" />
+      <module name="healthy_common" options="-parameters" />
+      <module name="healthy_domain" options="-parameters" />
+      <module name="healthy_eureka" options="-parameters" />
+      <module name="healthy_intervene" options="-parameters" />
+      <module name="healthy_member" options="-parameters" />
+      <module name="healthy_parent" options="-parameters" />
+      <module name="healthy_users" options="-parameters" />
+      <module name="healthy_zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

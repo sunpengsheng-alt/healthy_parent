@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/healthy_appoionment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/healthy_assessment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/healthy_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/healthy_domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/healthy_eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/healthy_intervene" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/healthy_member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/healthy_users" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/healthy_zuul" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
